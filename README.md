@@ -6,23 +6,23 @@ This repo is designed to serve as a reference, a learning guide, and a personal 
 ---
 
 ## 📂 Repository Structure  
-📦 Multi-Language-Code-Repository
-├── 📁 Python
-│ ├── program1.py
-│ ├── project2/
-│ └── ...
-├── 📁 C
-│ ├── hello.c
-│ ├── sorting.c
-│ └── ...
-├── 📁 Java
-│ ├── HelloWorld.java
-│ ├── OOPs_Concepts/
-│ └── ...
-└── 📁 Others
-├── JavaScript/
-├── C++/
-└── ...
+📦 Multi-Language-Code-Repository<br>
+├── 📁 Python<br>
+│ ├── program1.py<br>
+│ ├── project2/<br>
+│ └── ...<br>
+├── 📁 C<br>
+│ ├── hello.c<br>
+│ ├── sorting.c<br>
+│ └── ...<br>
+├── 📁 Java<br>
+│ ├── HelloWorld.java<br>
+│ ├── OOPs_Concepts/<br>
+│ └── ...<br>
+└── 📁 Others<br>
+├── JavaScript/<br>
+├── C++/<br>
+└── ...<br>
 Each folder contains code examples, practice files, and mini-projects written in that language.
 
 ---
