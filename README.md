@@ -42,4 +42,4 @@ Each folder contains code examples, practice files, and mini-projects written in
 
 1. Clone the repository  
    ```bash
-   
+   git clone https://github.com/shivanshd51/practicingCodes.git
