@@ -1,5 +1,7 @@
 # printing name letter by letter 
 
-a=input("enter the name:")
-for i in a:
-    print(i)
+def checkOddEven(x):
+    if (x%2==0):
+        print("Even")
+
+checkOddEven(4)
